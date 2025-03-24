@@ -97,7 +97,7 @@ axioms = "axioms.cli:app"
 
 [build-system]
 requires = [
-    "setuptools~=76.0",
+    "setuptools~=77.0",
     "setuptools-scm~=8.0",
 ]
 build-backend = "setuptools.build_meta"
